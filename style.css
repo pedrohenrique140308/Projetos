@@ -1,0 +1,83 @@
+h1 { 
+font-family: "Tahoma";
+text-align: center;
+font-size: 40px;
+margin-top: 50px
+margin-bottom: 40px
+}
+
+img.capa {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+h2 {
+margin-top: 25px;
+font-family: "Tahoma";
+text-align: center;
+}
+
+p {
+font-family: "Tahoma";
+text-align: center;
+margin-left: 15%;
+margin-right: 15%;
+margin-bottom: 25px;
+line-height: 27px;
+}
+
+.link1 {
+display: inline-block  ;
+text-align: center;
+padding: 10px 20px; 
+font-family: "Tahoma";
+text-decoration: none;
+background-color: #1a4e1f;
+color: white;
+border-radius: 20px;
+margin-bottom: 50px;
+margin-top:25px
+
+}
+
+div {
+text-align: center;
+}
+
+h3 {
+font-family: "Tahoma";  
+text-align: center;
+margin-top: 50px;
+margin-bottom: 20px
+}
+
+.comseu {
+margin-bottom: 50px;
+}
+
+.joyce {
+display: block;
+margin-left: auto;  
+margin-right: auto;
+margin-top: 42px;
+margin-bottom: 50px;
+border: black 4px solid;
+}
+
+span {
+font-weight: bold;
+}
+
+.desc {
+    margin-top: 50px;
+
+}
+
+.james {
+    margin-bottom: 50px;
+}
+
+body {
+font-family: "Tahoma";  
+}
